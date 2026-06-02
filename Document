@@ -98,28 +98,18 @@ The designs were simulated using Verilog simulation tools and analyzed using wav
 
 ## Project Structure
 
-```
+```text
 Task_03/
 │
-├── D_FlipFlop/
+├── Task Files/
+│   ├── count_tb.v
+│   ├── counter.v
+│   ├── d_flipflop_tb
 │   ├── d_flipflop.v
-│   ├── tb_d_flipflop.v
-│   └── waveform.png
-│
-├── JK_FlipFlop/
-│   ├── jk_flipflop.v
-│   ├── tb_jk_flipflop.v
-│   └── waveform.png
-│
-├── Register/
-│   ├── register4.v
-│   ├── tb_register4.v
-│   └── waveform.png
-│
-├── Counter/
-│   ├── counter4.v
-│   ├── tb_counter4.v
-│   └── waveform.png
+│   ├── JK_FLIPFLOP.v
+│   ├── JK_FLIPFLOP_TB.v
+│   ├── register_tb.v
+│   └── registers.v
 │
 ├── Screenshots/
 │   ├── D_FF_Output.png
@@ -127,6 +117,7 @@ Task_03/
 │   ├── Register_Output.png
 │   └── Counter_Output.png
 │
+└── Document
 └── README.md
 ```
 
