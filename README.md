@@ -122,11 +122,11 @@ Testbenches were developed to verify the functionality of each sequential circui
 
 ### 4-Bit Register
 
-![Register Waveform](/Screenshots/Register_Output.png)
+![Register Waveform](/Screenshots/Register_Output.jpg)
 
 ### 4-Bit Counter
 
-![Counter Waveform](/Screenshots/Counter_Output.png)
+![Counter Waveform](/Screenshots/Counter_Output.jpg)
 
 ---
 
