@@ -135,18 +135,16 @@ Testbenches were developed to verify the functionality of each sequential circui
 ```text
 Task_03/
 │
-├── d_flipflop.v
-├── tb_d_flipflop.v
-│
-├── jk_flipflop.v
-├── tb_jk_flipflop.v
-│
-├── register4.v
-├── tb_register4.v
-│
-├── counter4.v
-├── tb_counter4.v
-│
+├── Task Files/
+│   ├── count_tb.v
+│   ├── counter.v
+│   ├── d_flipflop_tb
+│   ├── d_flipflop.v
+│   ├── JK_FLIPFLOP.v
+│   ├── JK_FLIPFLOP_TB.v
+│   ├── register_tb.v
+│   └── registers.v
+|
 ├── Screenshots/
 │   ├── D_FF_Output.png
 │   ├── JK_FF_Output.png
